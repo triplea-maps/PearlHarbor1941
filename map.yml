@@ -1,0 +1,4 @@
+map_name: PearlHarbor1941
+games:
+- {game_name: Pearl Harbor 1941, file_name: PearlHarbor1941.xml}
+version: 0
